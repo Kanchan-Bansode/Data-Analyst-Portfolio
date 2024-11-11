@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 - [Education](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/Kanchan-Bansode/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Certificates](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/Kanchan-Bansode/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
