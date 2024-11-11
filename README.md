@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 
 - [About](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/Kanchan-Bansode/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#tech-store-sales-analysis)  
