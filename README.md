@@ -13,22 +13,22 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 
 - [About](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/Kanchan-Bansode/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Tech Store Sales Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#tech-store-sales-analysis)  
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+    - [Covid 19 Data Exploration](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/kanchan.bansode6882/vizzes)
   - Power BI
   
 
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/Kanchan-Bansode/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/Kanchan-Bansode/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
@@ -100,24 +100,25 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
+Berlin School of Buisness and Innovation, Berlin, Germany: 
+Master of Science - MSc, Data Analytics,
+Oct 2023 - Jul 2025 
 
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
+Rajiv Gandhi Institute of Technology, Mumbai, India:
+Bachelor's degree, Mechanical Engineering,
+2020 - 2023
 
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
+Diploma:
+Level 4 Diploma Course, Mechanical Engineering,
+2017 - 2020
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
 - [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
 - [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Microsoft Office Specialist: Excel Associate (Office 2019)]( ) (Jan 2024)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@KanchanBansode](www.linkedin.com/in/kanchan-bansode)
+- Email: kanchanbansode30@gmail.com
