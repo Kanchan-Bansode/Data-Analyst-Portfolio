@@ -117,7 +117,7 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
 - [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
 - [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
-- [Microsoft Office Specialist: Excel Associate (Office 2019)]( ) (Jan 2024)
+- [Microsoft Office Specialist: Excel Associate (Office 2019)] (Jan 2024) [pdf]
 
 ## Contacts
 - LinkedIn: [@KanchanBansode](https://www.linkedin.com/in/kanchan-bansode)
