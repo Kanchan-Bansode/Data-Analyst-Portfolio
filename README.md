@@ -6,7 +6,7 @@ My journey has allowed me to bridge the gap between technical engineering knowle
 
 In my free time, I enjoy exploring new analytical tools and deepening my understanding of machine learning and data visualization techniques. I am eager to make an impact in the field of data analytics and bring my unique perspective to solving complex problems through data.
 
-My CV in 
+My CV in [pdf]
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
