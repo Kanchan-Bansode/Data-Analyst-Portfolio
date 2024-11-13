@@ -21,7 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Classification of X-Ray Images for  Pneumonia Diagnosis]()
   - SQL
     - [Covid 19 Data Exploration](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
+    - [Housing Data Cleaning](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
     - [Library Management]()
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/kanchan.bansode6882/vizzes)
