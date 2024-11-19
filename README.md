@@ -1,4 +1,4 @@
-# Kanchan Bansode - Data_Analyst_Portfolio
+# Kanchan Bansode - Data Analyst Portfolio
 ## About
 Hi, I'm Kanchan Bansode! I have a background in mechanical engineering, with both a diploma and bachelor's degree in the field. Currently, I am pursuing my master’s in Data Analytics in Berlin, Germany, where I’m developing strong skills in data science and analytics.
 
