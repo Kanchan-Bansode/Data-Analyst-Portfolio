@@ -128,17 +128,17 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-Berlin School of Buisness and Innovation, Berlin, Germany: 
-Master of Science - MSc, Data Analytics,
-Oct 2023 - Jul 2025 
+ - Berlin School of Buisness and Innovation, Berlin, Germany: 
+   Master of Science - MSc, Data Analytics,
+   Oct 2023 - Jul 2025 
 
-Rajiv Gandhi Institute of Technology, Mumbai, India:
-Bachelor's degree, Mechanical Engineering,
-Oct 2020 - May 2023
+ - Rajiv Gandhi Institute of Technology, Mumbai, India:
+   Bachelor's degree, Mechanical Engineering,
+   Oct 2020 - May 2023
 
-Diploma:
-Level 4 Diploma Course, Mechanical Engineering,
-Aug 2017 - Jan 2020
+ - Diploma:
+   Level 4 Diploma Course, Mechanical Engineering,
+   Aug 2017 - Jan 2020
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
