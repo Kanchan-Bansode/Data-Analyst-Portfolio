@@ -15,15 +15,14 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#tech-store-sales-analysis)
+    - [Adidas Store Sales Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#)
+    - [HSBC Bank Fraud Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#)
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#covid-19-data-exploration)
-    - [Housing Data Cleaning](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
-    - [Library Management](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Library%20Management.pdf)
+    - [Housing Data Cleaning](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#)
+    - [Covid 19 Data Exploration](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#)
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/kanchan.bansode6882/vizzes)
-  - Power BI
+  - Tableau ---> [go to Tableau..](https://public.tableau.com/app/profile/kanchan.bansode6882/vizzes)
+  - Power BI ---> [go to Power BI..](https://github.com/Kanchan-Bansode/Portfolio_Projects/tree/main/Power%20BI)
   
 
 
@@ -33,68 +32,96 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### Adidas Store Sales Analysis
+**Code:** [`Adidas Store Sales Analysis.ipynb`](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Adidas_Retail_Sales_Analysis.ipynb)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** To perform exploratory data analysis (EDA) on the Adidas US retail dataset to evaluate sales performance, identify trends, and provide actionable insights for business decisions.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** This project utilizes the Adidas US sales dataset, which includes columns such as retailer information, sales data, product details, and regional distribution. The analysis encompasses data cleaning, preprocessing, and answering business-specific questions to uncover trends and opportunities. Key operations include exploring relationships between variables, calculating metrics like average operating margins, and visualizing trends across regions, retailers, and products.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Data cleaning, exploratory data analysis (EDA), data visualization, statistical analysis, and deriving business insights.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Python, Pandas, Numpy, Matplotlib, Seaborn.
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Results:** 
 
-### Tech Store Sales Analysis
+ - Identified total sales and operating profit trends across regions, highlighting the West region as a top performer.
+ - Analyzed the impact of sales methods, with in-store sales outperforming online channels.
+ - Determined the most popular products sold by each retailer, with "Men's Street Footwear" being the highest-selling category.
+ - Visualized average operating margins across all product categories, pinpointing the most profitable items.
+ - Explored the correlation between price per unit and total sales, revealing a positive relationship.
+ - Evaluated average price per unit across cities to identify price-sensitive markets.
+ - Ranked the top 10 retailers by total sales, offering insights into key partnerships and advertising strategies.
 
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+**Business Questions Addressed:**
 
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+ - How sales methods impact total sales.
+ - The trend of sales and operating profit across regions.
+ - The most popular products for each retailer.
+ - Average operating margins for products sold across retailers.
 
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+### HSBC Bank Fraud Analysis
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Goal:** To build a machine learning pipeline for detecting fraudulent banking transactions at HSBC using Random Forest, SVM, and Decision Tree models.
 
-**Technology:** Python, Pandas, Matplotlib.
+**Code:** [`HSBC Bank Fraud Analysis.ipynb`](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/HSBC_Bank_Fraud_Detection.ipynb)
 
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+**Description:** The project aimed to develop predictive models that can identify fraudulent transactions in real-time by analyzing historical banking data. The goal was to create accurate and efficient models to help HSBC prevent fraud and secure customer data.
+
+**Skills:** Data cleaning, data analysis, data visualization, supervised machine learning, model evaluation, feature engineering, performance metrics analysis.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn (Random Forest, SVM, Decision Tree).
+
+**Results:** The Random Forest model achieved 99.52% accuracy, proving to be the most effective for detecting fraud, while SVM and Decision Tree models showed promising but less optimal results. The pipeline helps HSBC by identifying fraudulent transactions early, minimizing financial losses, and improving security measures for customer data.
 
 
 
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Housing%20Data%20Cleaning.sql)
+### Housing Data Cleaning
+**Code:** [`Housing Data Cleaning.sql`](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Housing%20Data%20Cleaning.sql)
 
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+**Description:** This project analyzes a dataset of houses sold in Nashville from 2013 to 2019. It involves critical steps such as data loading, cleaning, and preprocessing to ensure data readiness for analysis.
 
 
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+**Skills:** Data Manipulation Language (DML), Data Query Language (DQL), Data Definition Language (DDL).
 
 **Technology:** SQL Server
+
+**Summary of Findings:**
+
+ - Property and owner addresses were split into separate components (Address, City, State) for improved granularity.
+ - Missing property addresses were populated using related records.
+ - Data Integrity Improvements: Standardized date formats, converted binary "Y/N" values to more intuitive "Yes/No" labels.
+ - Identified and removed duplicate records based on key attributes such as Parcel ID and Sale Price.
+ - Dropped unused columns (e.g., TaxDistrict, OwnerAddress) to streamline the dataset for analysis.
+
+**Limitations:**
+
+ - Some records had missing addresses or inconsistent formats, requiring assumptions during imputation.
+ - Data preprocessing relied on parsing patterns, which might not account for edge cases.
+ - Dropped columns could limit further analysis if those fields are later deemed useful.
 
 
 ### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+**Code:** [`Covid 19 Data Exploration.sql`](https://github.com/Kanchan-Bansode/Portfolio_Projects/blob/main/Covid19_DataExploration.sql)
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+**Description:** The dataset contains records of Covid-19 cases, deaths, and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing, and exploratory data analysis (EDA).
 
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+**Skills:** Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.
 
 **Technology:** SQL Server
 
+**Summary of Findings:**
 
+ - Identified regions with the highest death counts per population, providing insights into pandemic severity.
+ - Analyzed countries with the highest infection rates and death counts.
+ - Explored vaccination rates by country, highlighting the global progress in vaccination campaigns.
+ - Calculated infection percentages for each country, giving a comparative view of infection rates globally.
 
-### Legendary Pokémon Analysis
+**Limitations:**
 
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+ - Some records included null or invalid values, which were excluded during analysis.
+ - Variations in reporting standards and testing rates among countries could introduce biases in the results.
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
 
 
 
@@ -107,11 +134,11 @@ Oct 2023 - Jul 2025
 
 Rajiv Gandhi Institute of Technology, Mumbai, India:
 Bachelor's degree, Mechanical Engineering,
-2020 - 2023
+Oct 2020 - May 2023
 
 Diploma:
 Level 4 Diploma Course, Mechanical Engineering,
-2017 - 2020
+Aug 2017 - Jan 2020
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
