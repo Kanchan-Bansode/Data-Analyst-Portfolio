@@ -15,11 +15,11 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Adidas Store Sales Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#)
-    - [HSBC Bank Fraud Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#)
+    - [Adidas Store Sales Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#adidas-store-sales-analysis)
+    - [HSBC Bank Fraud Analysis](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#hsbc-bank-fraud-analysis)
   - SQL
-    - [Housing Data Cleaning](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#)
-    - [Covid 19 Data Exploration](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#)
+    - [Housing Data Cleaning](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#housing-data-cleaning)
+    - [Covid 19 Data Exploration](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/README.md#covid-19-data-exploration)
   - Excel / Google Sheets
   - Tableau ---> [go to Tableau..](https://public.tableau.com/app/profile/kanchan.bansode6882/vizzes)
   - Power BI ---> [go to Power BI..](https://github.com/Kanchan-Bansode/Portfolio_Projects/tree/main/Power%20BI)
