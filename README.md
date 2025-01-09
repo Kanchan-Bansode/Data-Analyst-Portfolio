@@ -144,7 +144,7 @@ Aug 2017 - Jan 2020
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Data Analysis & Visualization with Power BI ]() (Coursera - Microsoft)
 - [Data Analysis with Python Certificate]() (Coursera - IBM)
-- [Microsoft Office Specialist: Excel Associate (Office 2019)] (Jan 2024)
+- [Microsoft Office Specialist: Excel Associate (Office 2019)]() (Jan 2024)
 
 ## Contacts
 - LinkedIn: [@KanchanBansode](https://www.linkedin.com/in/kanchan-bansode)
