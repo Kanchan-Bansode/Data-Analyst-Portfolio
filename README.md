@@ -6,7 +6,7 @@ My journey has allowed me to bridge the gap between technical engineering knowle
 
 In my free time, I enjoy exploring new analytical tools and deepening my understanding of machine learning and data visualization techniques. I am eager to make an impact in the field of data analytics and bring my unique perspective to solving complex problems through data.
 
-My CV in [pdf]()
+My CV in [pdf](https://github.com/Kanchan-Bansode/Data-Analyst-Portfolio/blob/main/Base%20CV.pdf)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -142,10 +142,9 @@ Aug 2017 - Jan 2020
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Foundation of Data Science]() (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
-- [Microsoft Office Specialist: Excel Associate (Office 2019)]() (Jan 2024)
+- [Data Analysis & Visualization with Power BI ]() (Coursera - Microsoft)
+- [Data Analysis with Python Certificate]() (Coursera - IBM)
+- [Microsoft Office Specialist: Excel Associate (Office 2019)] (Jan 2024)
 
 ## Contacts
 - LinkedIn: [@KanchanBansode](https://www.linkedin.com/in/kanchan-bansode)
